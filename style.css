@@ -279,5 +279,13 @@ footer input{
       padding: 30px;
       font-size: 18px;
       font-family: sans-serif;
-      color: #8e8e8e;
+      color: #060202;
+}
+/* about-as-section */
+#element-style{
+      margin-top: 236px;
+      margin-left: 30px;
+  }
+#heading-30{
+      margin-left: 30px;
 }
