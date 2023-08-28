@@ -248,15 +248,36 @@ form input {
       line-height: 26px;
 }
 /* footer secton */
+footer{
+      background-color: #004445;
+}
 .footer-main-section{
       background-color: #004445;
       padding: 100px 0;
-}
-.footer-section{
-      display: flex;
       max-width: 1140px;
+      display: flex;
       margin: 0 auto;
-      align-items: center;
-      justify-content: space-around;
+      gap: 60px;
       color: #ffffff;
+      font-family: sans-serif;
+}
+footer h2{
+      padding: 20px 0;
+}
+footer p{
+      line-height: 30px;
+}
+footer li{
+      padding: 7px 0;
+}
+footer input{
+      padding: 20px 80px 20px 20px;
+      font-size: 16px;
+}
+.last-footer{
+      text-align: center;
+      padding: 30px;
+      font-size: 18px;
+      font-family: sans-serif;
+      color: #8e8e8e;
 }
